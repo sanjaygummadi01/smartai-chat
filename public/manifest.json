@@ -1,0 +1,22 @@
+{
+  "name": "Smart AI Chat",
+  "short_name": "SmartAI",
+  "description": "AI Chat Assistant (Demo Mode)",
+  "start_url": "/smartai-chat/#/",
+  "display": "standalone",
+  "background_color": "#111318",
+  "theme_color": "#111318",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/smartai-chat/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/smartai-chat/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
